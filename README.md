@@ -14,7 +14,8 @@ Open To-Do is an open source To-Do website that I made to learn more about web d
 - Structured more like a desktop app than a web app
 
 ## How to use
-Visit [https://opentodo.github.io](https://opentodo.github.io)
+Visit [https://open-todo.github.io](https://open-todo.github.io)
 
-## License
-This project is licensed under the MIT License.
+## Images
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/b53acfa0-c0ed-4281-8527-b15e2026a583" />
+
