@@ -1,6 +1,5 @@
 # OpenToDo
-
-Open To-Do is an open source To-Do website that I made to learn more about web development.
+Open To-Do is an open source kanban to-do list project.
 
 ## Main features
 - Drag and drop using sortableJs
