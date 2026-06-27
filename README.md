@@ -13,6 +13,9 @@ Open To-Do is an open source kanban to-do list project.
 - Structured more like a desktop app than a web app
 - LocalStorage may be wiped sometimes so downloading the project manually is recommended
 
+## Roadmap
+- New project button
+
 ## How to use
 - Visit [https://open-todo.github.io](https://open-todo.github.io)
 - Add cards by pressing the "Add new..." button on each of the columns
@@ -29,3 +32,7 @@ Open To-Do website interface
 <img width="427" height="198" alt="Card dragging animation" src="https://github.com/user-attachments/assets/7e3ac558-c252-492c-8c2d-287164c05ad5" />
 
 Card dragging animation
+
+<img width="425" height="168" alt="image" src="https://github.com/user-attachments/assets/42f4c6fc-49d9-4fcd-8698-862af1697e20" />
+
+File dragging and dropping (upload)
