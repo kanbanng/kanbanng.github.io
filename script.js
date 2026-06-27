@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const sidebarButtons = document.querySelectorAll('.sidebar-action');
     const dropzone = document.getElementById('dropzone');
 
-    const storageKey = 'open-todo-data';
+    const storageKey = 'kanbanNG-data';
     const projectTitleHeader = document.querySelector('.project-title-header');
 
     function getNormalizedText(el) {
