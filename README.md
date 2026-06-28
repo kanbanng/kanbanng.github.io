@@ -16,7 +16,7 @@ KanbanNG is a lighweight open source kanban styled to-do list website, made for 
 - New project button
 
 ## Getting started
-- Visit [https://open-todo.github.io](https://open-todo.github.io)
+- Visit https://kanbanng.github.io
 - Add cards by pressing the "Add new..." button on each of the columns
 - Move cards from column to column by holding and dragging them
 - Name your project by clicking and typing on the top right side of the screen's textbox
